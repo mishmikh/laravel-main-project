@@ -19,7 +19,7 @@ class CommentFactory extends Factory
         return [
             'name'=>$this->faker->word(),
             'desc'=>$this->faker->paragraph(),
-            'user_id'=>random_int(1,10),
+            'user_id'=>random_int(1,11),
         ];
     }
 }
