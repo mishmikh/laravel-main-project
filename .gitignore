@@ -1,0 +1,33 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+
+
+# macOS system files
+.DS_Store
+
+# User-specific files
+.bash_profile
+.zshrc
+.zcompdump
+.zprofile
+.zsh_history
+.zsh_sessions
+.gitconfig
+.DS_Store
